@@ -7,6 +7,7 @@ Easy text cryptor generates random unique key  for each encrypted message
 Benefits: 
 - Easy to use for everyone
 - No installation required
+- Open source with clean understandable code
 - Can be run on any platform (Windows, Linux, Macos) where Python v3 is installed
 
 How to use:
