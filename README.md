@@ -1,13 +1,15 @@
-# easyTextCryptor
-simple console software to encrypt and decrypt text messages written on python
+# easy Text Cryptor
+simple software to encrypt and decrypt text messages written on python.
 
 Easy Text Cryptor by Dmitry published under Mozilla Public License v2
 Easy text cryptor generates random unique key  for each encrypted message
 
 Benefits: 
 - Easy to use for everyone
+- Has strong crypto algorithm 
 - No installation required
 - Open source with clean understandable code
+- Has graphic user interface
 - Can be run on any platform (Windows, Linux, Macos) where Python v3 is installed
 
 How to use:
@@ -26,8 +28,11 @@ Follow next steps:
 2) copy file easytextcryptor.py to folder C:\Documents and Settings\yourusername 
 
 use keys "windows + R" on your keyboard or use menu: start (windows start button) > run 
-then type in: python easytextcryptor.py 
+then type in: 
+for GUI version: python easytextcryptorgui.py 
+for console version: python easytextcryptor.py 
 
+in case you use console version:
 3) the window with will open. In order to encrypt text type in 1 and press enter. 
 
 4) Copy the text you want to be encrypted. Be sure that text CONTAINS ONLY LATIN LETTERS and there are no figures like 123 or characters like !:)@ or so on. 
